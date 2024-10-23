@@ -1,2 +1,2 @@
-city : banglor
+city : kandy
 
